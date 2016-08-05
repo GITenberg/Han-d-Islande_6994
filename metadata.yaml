@@ -1,0 +1,38 @@
+_repo: Han-d-Islande_6994
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 6994/6994-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6994'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Christian IV, King of Denmark and Norway, 1577-1648 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Murderers -- Fiction'
+- !lcsh 'Norway -- History -- Christian IV, 1588-1648 -- Fiction'
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Political prisoners -- Fiction'
+- !lcsh 'Suspense fiction'
+- GITenberg
+title: Han d'Islande
+url: http://www.gutenberg.org/ebooks/6994
